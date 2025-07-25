@@ -2,7 +2,7 @@
 🔭 Currently working on: Django + MongoDB projects   <br>
 👯 Open to collaborate on: AI + Fullstack WebProjects  <br>
 🤝 Seeking help with: Optimizing backends, real-time API integrations  <br>
-🌱 Learning: Machine Learning, Gemini API, FastAPI & Next.js  <br>
+🌱 Learning: Machine Learning, Gemini API, FastAPI   <br>
 💬 Ask me about: Django, MongoDB, GSAP, Gemini API, DSA  <br>
 ⚡ Fun fact: I love mixing AI with smooth, interactive frontend magic 🎯
 
