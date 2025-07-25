@@ -1,4 +1,8 @@
-# 💫 About Me:
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&pause=2000&color=00FFAA&center=true&vCenter=true&width=435&lines=pratap+choubey;AI+Engineer+%7C+Fullstack+Visionary;Crafting+Code+That+Thinks..." alt="Typing SVG" />
+</h1>
+💫 About Me:
+
 🔭 Currently working on: Django + MongoDB projects   <br>
 👯 Open to collaborate on: AI + Fullstack WebProjects  <br>
 🤝 Seeking help with: Optimizing backends, real-time API integrations  <br>
