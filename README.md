@@ -8,7 +8,7 @@
 🤝 Seeking help with: Optimizing backends, real-time API integrations  <br>
 🌱 Learning: Machine Learning, Gemini API, FastAPI   <br>
 💬 Ask me about: Django, MongoDB, GSAP, Gemini API, DSA  <br>
-⚡ Fun fact: I love mixing AI with smooth, interactive frontend magic 🎯
+⚡ Fun fact: I love mixing AI with smooth & sometime making bugs , interactive frontend magic 🎯
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/PC38) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pratap.19.09) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Pratap Narayan Choubey) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/user:31145562) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pratapchoubey03@gmail.com) 
