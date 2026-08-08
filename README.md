@@ -28,13 +28,7 @@ I like building projects, learning new tools, and improving step by step.
 
 </div>
 
-## Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Pratap38/Pratap38/main/output/github-snake.svg" width="100%" alt="GitHub Contribution Snake"/>
-
-</div>
 
 ## Activity Graph
 
