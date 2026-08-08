@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&pause=1800&color=00FFAA&center=true&vCenter=true&width=520&lines=Pratap+Choubey;Developer+and+Linux+Enthusiast;Building+one+project+at+a+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&pause=1800&color=00FFAA&center=true&vCenter=true&width=520&lines=BAKER_02" alt="Typing SVG" />
 </h1>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Developer+and+Linux+enthusiast;I+like+building+projects+and+learning+new+tools;Improving+step+by+step" alt="Intro Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Current;UbuntuFreezeCleaer" alt="Intro Animation"/>
 
 </div>
 
