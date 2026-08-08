@@ -8,9 +8,9 @@
 
 </div>
 
-Developer and Linux enthusiast.
+Just an  Devloper.
 
-I like building projects, learning new tools, and improving step by step.
+I can vibe with crazy idea and implement.
 
 <div align="center">
 
