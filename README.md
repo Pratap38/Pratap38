@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Current;UbuntuFreezeCleaer" alt="Intro Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Current;UbuntuFreezeCleaner" alt="Intro Animation"/>
 
 </div>
 
