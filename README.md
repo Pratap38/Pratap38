@@ -32,7 +32,7 @@ I like building projects, learning new tools, and improving step by step.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Pratap38/Pratap38/output/github-snake.svg" width="100%" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/Pratap38/Pratap38/main/output/github-snake.svg" width="100%" alt="GitHub Contribution Snake"/>
 
 </div>
 
