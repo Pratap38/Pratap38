@@ -20,13 +20,7 @@ I like building projects, learning new tools, and improving step by step.
 
 </div>
 
-## GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Pratap38&theme=algolia&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies"/>
-
-</div>
 
 
 
