@@ -1,0 +1,45 @@
+name: Generate GitHub Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Generate GitHub snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Pratap38
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Publish snake to output branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git checkout --orphan output
+          git rm -rf . >/dev/null 2>&1 || true
+          cp dist/github-snake.svg ./github-snake.svg
+          cp dist/github-snake-dark.svg ./github-snake-dark.svg
+          git add github-snake.svg github-snake-dark.svg
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Generate GitHub snake"
+            git push --force origin output
+          fi
