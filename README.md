@@ -29,7 +29,6 @@ I can vibe with crazy idea and implement.
 
 ## Activity Graph
 
-## Activity Graph
 
 <div align="center">
 
