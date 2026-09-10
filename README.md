@@ -29,6 +29,8 @@ I can vibe with crazy idea and implement.
 
 ## Activity Graph
 
+## Activity Graph
+
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratap38&bg_color=00000000&color=38BDF8&line=2563EB&point=FFFFFF&area=true&area_color=2563EB&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub Activity Graph"/>
