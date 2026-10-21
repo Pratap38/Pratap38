@@ -31,8 +31,9 @@ I can vibe with crazy idea and implement.
 
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratap38&theme=react-dark&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph"/>
-
+<a href="https://github.com/Pratap38">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratap38&theme=react-dark&hide_border=true&area=true" width="100%" alt="Pratap38's GitHub Activity Graph" />
+</a>
 </div>
 
 ## Connect
